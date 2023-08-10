@@ -1,6 +1,6 @@
 ## Nikos Vourdas (@nickvourd)
 
-Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consultant and Red Teamer located in Greece. My passion revolves around exploring the realms of ethical hacking and cybersecurity. While I have a strong passion for learning, my greater delight comes from imparting the knowledge I've gained. Please don't hesitate to reach out to me via Twitter or Email, if you're interested in discussing anything related to offensive security!
+Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consultant and Red Teamer located in Greece. My passion revolves around exploring the realms of ethical hacking and cybersecurity. While I have a strong passion for learning, my greater delight comes from imparting the knowledge I've gained. Please don't hesitate to reach out to me via <a href="https://twitter.com/intent/user?screen_name=nickvourd"><img align="left" src="https://img.shields.io/badge/Twitter-blue" alt="Follow me on Twitter" /></a> or Email, if you're interested in discussing anything related to offensive security!
 
 <!--
 **nickvourd/nickvourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
