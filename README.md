@@ -4,7 +4,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 
 <a href="https://nickvourd.github.io"><img align="left" src="https://img.shields.io/badge/Blog-purple" alt="Visit my blog" /></a>
 <a href="https://twitter.com/intent/user?screen_name=nickvourd"><img align="left" src="https://img.shields.io/badge/%40nickvourd-blue?logo=Twitter" alt="Follow me on Twitter" /></a>
-<a href="https://www.linkedin.com/in/nickvourd/"><img align="left" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nickvourd/"><img align="left" src="https://img.shields.io/badge/Nikos%20Vourdas-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
 <a href="https://github.com/nickvourd"><img align="left" src="https://img.shields.io/github/followers/nickvourd?color=lightgray&label=GitHub" alt="Follow me on GitHub"/></a><br /><br />
 Buy me a coffee:
 
