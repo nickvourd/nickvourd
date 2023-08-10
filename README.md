@@ -15,7 +15,8 @@ My Hall of Fame:<br /><br />
 <a href="https://eu.badgr.com/public/assertions/9u2mJ7HzThK_FOG6iHwBhg"><img align="left" src="/Pictures/crto-logo.png" alt="CRTO" width="100" height="100" /></a>
 <a href="https://eu.badgr.com/public/assertions/6s7WAk2NTz2Tn4Md5T6dvw"><img align="left" src="/Pictures/crtl-logo.png" alt="CRTL" width="100" height="100" /></a>
 <br /><br />
-<br /><br />My Github stats:<br /><br />
+<br /><br />
+My Github stats:<br /><br />
 <img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&theme=dracula" width="380">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chvancooten&layout=compact&theme=dracula" width="380">
 
