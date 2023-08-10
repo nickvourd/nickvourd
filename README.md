@@ -9,7 +9,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 Buy me a coffee:
 
 <a href="https://www.buymeacoffee.com/nickvourd"><img align="left" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="170" alt="Buy me a coffee"/></a><br /><br />
-<br /><br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&theme=dark" width="380">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvourd&layout=compact&theme=dark" width="380">
 <!--
