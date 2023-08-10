@@ -13,8 +13,8 @@ My Hall of Fame:<br /><br />
 <a href="https://www.credential.net/e8ccd338-5710-43dc-a5ad-1d6de3495a39"><img src="/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100" /></a>
 <a href="https://www.credential.net/e45840b9-5607-41e2-838c-b26461229dbe#gs.3kxb1y"><img src="/Pictures/oswp-logo.png" alt="OSWP" width="100" height="100" /></a>
 <a href="https://eu.badgr.com/public/assertions/9u2mJ7HzThK_FOG6iHwBhg"><img src="/Pictures/crto-logo.png" alt="CRTO" width="100" height="100" /></a>
-<a href="https://eu.badgr.com/public/assertions/6s7WAk2NTz2Tn4Md5T6dvw"><img src="/Pictures/crtl-logo.png" alt="CRTL" width="100" height="100" /></a>
-<br /><br /><br />
+<a href="https://eu.badgr.com/public/assertions/6s7WAk2NTz2Tn4Md5T6dvw"><img src="/Pictures/crtl-logo.png" alt="CRTL" width="100" height="100" /></a><br /><br />
+My GitHub stats:<br />
 <br /><br /><img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&theme=dracula" width="380">
 <br /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvourd&layout=compact&theme=dracula" width="380"><br /><br />
 
