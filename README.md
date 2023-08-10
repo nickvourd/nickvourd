@@ -2,7 +2,7 @@
 
 Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consultant and Red Teamer located in Greece. My passion revolves around exploring the realms of ethical hacking and cybersecurity. I like to build offensive security tooling (OST) in different programming languages. Please don't hesitate to ping me on Twitter, if you're interested in discussing anything related to offensive security!
 
-<a href="https://nickvourd.github.io" target="_blank" rel="noopener"><img align="left" src="https://img.shields.io/badge/My%20Blog-purple?logo=Medium" alt="Visit my blog" /></a>
+<a href="https://nickvourd.github.io" target="_blank"><img align="left" src="https://img.shields.io/badge/My%20Blog-purple?logo=Medium" alt="Visit my blog" /></a>
 <a href="https://twitter.com/intent/user?screen_name=nickvourd" target="_blank" rel="noopener"><img align="left" src="https://img.shields.io/badge/%40nickvourd-blue?logo=Twitter" alt="Follow me on Twitter" /></a>
 <a href="https://www.linkedin.com/in/nickvourd/" target="_blank" rel="noopener"><img align="left" src="https://img.shields.io/badge/Nikos%20Vourdas-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
 <a href="https://github.com/nickvourd" target="_blank" rel="noopener"><img align="left" src="https://img.shields.io/github/followers/nickvourd?color=lightgray&label=GitHub" alt="Follow me on GitHub"/></a><br /><br />
