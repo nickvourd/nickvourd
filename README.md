@@ -4,6 +4,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 
 <a href="https://nickvourd.github.io"><img align="left" src="https://img.shields.io/badge/Blog-purple" alt="Visit my blog" /></a>
 <a href="https://twitter.com/intent/user?screen_name=nickvourd"><img align="left" src="https://img.shields.io/badge/Twitter-blue" alt="Follow me on Twitter" /></a>
+<a href="https://github.com/nickvourd"><img align="left" src="https://img.shields.io/github/followers/nickvourd?color=lightgray&label=GitHub" alt="Follow me on GitHub"/></a>
 
 <!--
 **nickvourd/nickvourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
