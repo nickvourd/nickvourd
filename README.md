@@ -10,7 +10,7 @@ if you like what i do, maybe consider buying me a coffee/beer:<br /><br />
 <a href="https://www.buymeacoffee.com/nickvourd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br /><br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&theme=dracula" width="380">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chvancooten&layout=compact&theme=gotham" width="380">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chvancooten&layout=compact&theme=dracula" width="380">
 <!--
 **nickvourd/nickvourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
