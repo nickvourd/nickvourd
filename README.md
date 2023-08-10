@@ -10,6 +10,7 @@ if you like what i do, maybe consider buying me a coffee/beer:<br /><br />
 <a href="https://www.buymeacoffee.com/nickvourd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br />
 My Hall of Fame:<br /><br />
 <a href="https://www.credential.net/5dbab8fe-2bb5-442b-a994-0e09a4727e9e#gs.3kxl9y"><img align="left" src="/Pictures/osep-logo.png" alt="OSEP" width="100" height="100"/></a>
+<a href="https://www.credential.net/e8ccd338-5710-43dc-a5ad-1d6de3495a39"><img align="left" src="/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100"/></a><br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&theme=dracula" width="380">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chvancooten&layout=compact&theme=dracula" width="380">
