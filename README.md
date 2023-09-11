@@ -9,6 +9,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 If you like what i do, maybe consider buying me a coffee/beer:<br /><br />
 <a href="https://www.buymeacoffee.com/nickvourd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br /><br />
 My Hall of Fame:<br /><br />
+<a href="https://www.credential.net/adf51ca4-2660-4230-ad7d-727980aa961b#gs.5jqgv2"><img src="/Pictures/oswe-logo.png" alt="OSWE" width="100" height="100" /></a>
 <a href="https://www.credential.net/5dbab8fe-2bb5-442b-a994-0e09a4727e9e#gs.3kxl9y"><img src="/Pictures/osep-logo.png" alt="OSEP" width="100" height="100" /></a>
 <a href="https://www.credential.net/e8ccd338-5710-43dc-a5ad-1d6de3495a39"><img src="/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100" /></a>
 <a href="https://www.credential.net/e45840b9-5607-41e2-838c-b26461229dbe#gs.3kxb1y"><img src="/Pictures/oswp-logo.png" alt="OSWP" width="100" height="100" /></a>
