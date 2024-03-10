@@ -6,7 +6,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 <a href="https://twitter.com/intent/user?screen_name=nickvourd"><img align="left" src="https://img.shields.io/twitter/follow/nickvourd" alt="Follow me on Twitter" /></a>
 <a href="https://www.linkedin.com/in/nickvourd/"><img align="left" src="https://img.shields.io/badge/Nikos%20Vourdas-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
 <a href="https://github.com/nickvourd"><img align="left" src="https://img.shields.io/github/followers/nickvourd" alt="Follow me on GitHub"/></a>
-<a href="https://github.com/KernelPanicOfficial"><img align="left" src="https://img.shields.io/twitter/follow/KernelPanicOfficial" alt="Follow Kernel Panic on GitHub"/></a><br /><br />
+<a href="https://github.com/KernelPanicOfficial"><img align="left" src="https://img.shields.io/badge/KernelPanic-Official?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FKernelPanicOfficial" alt="Follow Kernel Panic on GitHub"/></a><br /><br />
 If you like what i do, maybe consider buying me a coffee/beer:<br /><br />
 <a href="https://www.buymeacoffee.com/nickvourd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br /><br />
 My Hall of Fame:<br /><br />
