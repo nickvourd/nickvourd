@@ -1,4 +1,4 @@
-## Nikos Vourdas (@nickvourd)
+## NCV (@nickvourd)
 
 Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consultant based in the US. I'm passionate about exploring the realms of ethical hacking and cybersecurity, and I love building Offensive Security Tooling (OST) in various programming languages. Feel free to reach out to me on Twitter or LinkedIn if you're interested in discussing anything related to Offensive Security and Red Teaming!
 
