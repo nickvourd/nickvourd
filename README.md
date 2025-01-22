@@ -21,5 +21,5 @@ If you like what I do, maybe consider buying me a coffee/beer:<br /><br />
 
 ## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nickvourd&show_icons=true&layout=compact&show=prs_merged&count_private=true&theme=dracula" width="380"><br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvourd&langs_count=8&layout=compact&theme=dracula&hide=javascript,html,css,stylus" width="380"><br /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvourd&langs_count=12&layout=compact&theme=dracula&hide=javascript,html,css,stylus" width="380"><br /><br />
 
