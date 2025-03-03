@@ -21,5 +21,5 @@ If you like what I do, maybe consider buying me a coffee/beer:<br /><br />
 
 ## My GitHub Stats
 <img src="https://github-readme-stats.zohan.tech/api?username=nickvourd&show_icons=true&layout=compact&count_private=true&theme=dracula" width="380"><br /><br />
-<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=nickvourd&langs_count=10&layout=compact&theme=dracula&hide=javascript,html,css,stylus" width="380"><br /><br />
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=nickvourd&langs_count=8&layout=compact&theme=dracula&hide=javascript,html,css,stylus" width="380"><br /><br />
 
