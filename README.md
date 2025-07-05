@@ -12,11 +12,11 @@ If you like what I do, maybe consider buying me a coffee/beer:<br /><br />
 
 ## My Hall of Fame
 <a href="https://www.credential.net/ece0eaa6-b44a-4f57-a4f8-e23c2176f62a#acc.9hDx3XgN"><img src="/Pictures/osce3-logo.png" alt="OSCE3" width="100" height="100" /></a>
-<a href="https://www.credential.net/d6d898e2-c882-4693-93f4-9cb83a4e51f9#acc.j3bdPZ4r"><img src="/Pictures/osed-logo-1.png" alt="OSED" width="100" height="100" /></a>
-<a href="https://www.credential.net/adf51ca4-2660-4230-ad7d-727980aa961b#gs.5jqgv2"><img src="/Pictures/oswe-logo.png" alt="OSWE" width="100" height="100" /></a>
-<a href="https://www.credential.net/5dbab8fe-2bb5-442b-a994-0e09a4727e9e#gs.3kxl9y"><img src="/Pictures/osep-logo.png" alt="OSEP" width="100" height="100" /></a>
-<a href="https://www.credential.net/e8ccd338-5710-43dc-a5ad-1d6de3495a39"><img src="/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100" /></a>
-<a href="https://www.credential.net/e45840b9-5607-41e2-838c-b26461229dbe#gs.3kxb1y"><img src="/Pictures/oswp-logo.png" alt="OSWP" width="100" height="100" /></a>
+<a href="https://www.credential.net/d6d898e2-c882-4693-93f4-9cb83a4e51f9#acc.j3bdPZ4r"><img src="/Pictures/osed-logo-2.png" alt="OSED" width="100" height="100" /></a>
+<a href="https://www.credential.net/adf51ca4-2660-4230-ad7d-727980aa961b#gs.5jqgv2"><img src="/Pictures/oswe-logo-2.png" alt="OSWE" width="100" height="100" /></a>
+<a href="https://www.credential.net/5dbab8fe-2bb5-442b-a994-0e09a4727e9e#gs.3kxl9y"><img src="/Pictures/osep-logo-2.png" alt="OSEP" width="100" height="100" /></a>
+<a href="https://www.credential.net/e8ccd338-5710-43dc-a5ad-1d6de3495a39"><img src="/Pictures/oscp-logo-2.png" alt="OSCP" width="100" height="100" /></a>
+<a href="https://www.credential.net/e45840b9-5607-41e2-838c-b26461229dbe#gs.3kxb1y"><img src="/Pictures/oswp-logo-2.png" alt="OSWP" width="100" height="100" /></a>
 <a href="https://eu.badgr.com/public/assertions/9u2mJ7HzThK_FOG6iHwBhg"><img src="/Pictures/crto-logo.png" alt="CRTO" width="100" height="100" /></a>
 <a href="https://eu.badgr.com/public/assertions/6s7WAk2NTz2Tn4Md5T6dvw"><img src="/Pictures/crtl-logo.png" alt="CRTL" width="100" height="100" /></a>
 <a href="https://api.eu.badgr.io/public/assertions/xCf4iHQWT8Cbpa37VKRV9w"><img src="/Pictures/oasp-logo.png" alt="OASP" width="100" height="100" /></a><br /><br />
