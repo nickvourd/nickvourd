@@ -9,7 +9,7 @@ Hey 👋! I'm Nikos (a.k.a nickvourd or NCV), a Senior Offensive Security Consul
 <a href="https://github.com/nickvourd"><img align="left" src="https://img.shields.io/github/followers/nickvourd?label=Follow%20nickvourd" alt="Follow me on GitHub"/></a>
 <a href="https://www.linkedin.com/in/nickvourd/"><img align="left" src="https://img.shields.io/badge/Nikos%20Vourdas-grey?label=LinkedIn&labelColor=blue" alt="Follow me on LinkedIn" /></a>
 <a href="https://www.credential.net/profile/nickvourd/wallet"><img align="left" src="https://img.shields.io/badge/Wallet-grey?label=Accredible&labelColor=yellow" alt="Visit My Accredible Wallet" /></a>
-<a href="https://sessionize.com/nickvourd/"><img align="left" src="https://img.shields.io/badge/Profile-grey?label=Sessionize&labelColor=green" alt="View my Sessionize Profile" /></a>
+<a href="https://sessionize.com/nickvourd/"><img align="left" src="https://img.shields.io/badge/Profile-grey?label=Sessionize&labelColor=green" alt="View my Sessionize Profile" /></a><br />
 <a href="https://crowdcruit.com/user/nickvourd"><img align="left" src="https://img.shields.io/badge/Profile-grey?label=Crowdcruit&labelColor=red" alt="View my Crowdcruit Profile" /></a>
 <br /><br />
 
